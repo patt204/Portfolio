@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-My name is Patrycja Wysocka. I graduated from the field of applied computer science with a Master of Engineering's degree (M.Eng. / mgr inż.) at the Lodz University of Technology. Recently I have started to interest of software testing. My goal is to develop my IT skills. On this site I would like to share my gained experience from personal studies and researches.
+My name is Patrycja Wysocka. I graduated from the field of applied computer science with a Master of Engineering's degree (M.Eng. / mgr inż.) at the Lodz University of Technology. I recently became interested in software testing. I want to develop my IT skills and find job in IT. On this site I would like to share my gained experience from personal studies and researches.
 ## Link do my LinkedIn
 [https://www.linkedin.com/in/patrycja-wysocka/](https://www.linkedin.com/in/patrycja-wysocka/)
 ## Tools I am familiar with
@@ -23,6 +23,7 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 * "A comparative analysis of the selection methods of emotion classification on the basis of electroencalogram signals" (polish version: "Analiza porównawcza metod selekcji cech w klasyfikacji emocji na podstawie sygnałów EEG)" - Analysis of thesis was realized with usage of Python language scripts.  It was my thesis from a Master of Engineering's degree (mgr). 
 * Project of application for managing the inventory in a company - the application written in Java 8, based on a database of products and orders (created in SQLite) and a proposed simple interface for this application. [Link to repo](https://github.com/patt204/MyCompany)
 * Project of database of the training center courses - modeling and creation of database schema with implementation in Microsoft SQL Server. Operations on data sets, primary and foreign keys, SQL queries, functions, procedures, cursors, releases. [Link to repo](https://github.com/patt204/training_center_database)
+* Project of data warehouse - realized in Microsoft Visual Studio Community on student's licence access to this app [Link to repo](https://github.com/patt204/data_warehouse_project)
 ## Link to my repositories
 [https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
 ## My test cases - example
