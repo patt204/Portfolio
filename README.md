@@ -43,5 +43,5 @@ My repositories: https://github.com/patt204/cloud_challenge and https://github.c
 * "Data Warehouse" (06.2021) - 1-hour training as part of the job fair event organized by company Accenture about the basics of data warehouses.
 * "Basics of Visual Basic for Application (VBA) & SAP Scripting" (09.2020) - internal course organized by company Infosys.
 * "Skuteczne zarządzanie projektami" - (11.01.2018) - training as part of the job fair event, scope of training: trends and research in the development of the project management discipline; planning and progress control tools: market analysis, Kanban, Vonnegut Strategy, SMART goals, Gantt chart; workshop on the development of managerial competences; project management support software: MS Project, Asana.
-* "System 365 Microsoft Dynamics" (06.2017) - training as part of the job fair event about the system 365 Microsoft Dynamics.
+* "System 365 Microsoft Dynamics" (06.2017) - training as part of the job fair event about the CRM/ERP system Microsoft Dynamics 365.
 * "Lean Management - kultura ciągłego doskonalenia na przykładzie HTL-STREFA S.A." (04.2017) - training as part of the job fair event about the basics of lean management.
