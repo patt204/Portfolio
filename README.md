@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-My name is Patrycja Wysocka. I graduated from the field of applied computer science with a Master of Engineering's degree (M.Eng. / mgr inż.) at the Lodz University of Technology. I recently became interested in software testing. I want to develop my IT skills and find job in IT. On this site I would like to share my gained experience from personal studies and researches.
+My name is Patrycja Wysocka. I graduated from the field of applied computer science with a Master of Engineering's degree (M.Eng. / mgr inż.) at the Lodz University of Technology. I want to develop my IT skills and find job in IT. On this site I would like to share my gained experience from personal studies and researches.
 ## Link do my LinkedIn
 [https://www.linkedin.com/in/patrycja-wysocka/](https://www.linkedin.com/in/patrycja-wysocka/)
 ## Tools I am familiar with
@@ -31,6 +31,7 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 ## My bug report - example
   - [Bugs reported for website https://scouts.futbolkolektyw.pl/en/](https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16)
 ## My courses
+* "AI Foundations Program" - (05.2025 - 06.2025) - 4-week course about basics how to use the possibilities of GenAI to simplify our daily life, organizator: Women Go Tech.
 * "Zostań Testerem Manualnym" (04.2023 - 06.2023) - 7-weeks course organized by DareIT (https://www.dareit.io/). The scope of the course: Exploratory tests, Test cases, Error reporting, Mobile application testing, SQL exercises in MySQL, SQL: modifications of data in the table, modifications of tables, joining tables, i.e. what is actually used in projects in practice. 
 My repository: https://github.com/patt204/challenge_portfolio_patrycja
 * "Testy Automatyczne + Python" (03.2023 - 05.2023) - 7-weeks course organized by DareIT (https://www.dareit.io/). The scope of the course: Creating a project using Selenium Webdriver + Python technology and robot framework. Getting to know good testing practices and the first, own automatic tests. Bug reporting and test report.
@@ -40,3 +41,6 @@ My repositories: https://github.com/patt204/cloud_challenge and https://github.c
 * "Analiza danych i programowanie w Pythonie" (10.2022)  - a course at the training company LabMasters (https://labmasters.pl/). The scope of the course: introduction to the Python and Jupyter Notebook environment, flow control, functions and objects, NumPy and Scipy, Pandas, Visualizations).
 * "Data Warehouse" (06.2021) - 1-hour training organized by company Accenture.
 * "Basics of Visual Basic for Application (VBA) & SAP Scripting" (09.2020) - internal course organized by company Infosys.
+* "Skuteczne zarządzanie projektami" - (11.01.2018) -  - training as part of the job fair event, scope of training: trends and research in the development of the project management discipline; planning and progress control tools: market analysis, Kanban, Vonnegut Strategy, SMART goals, Gantt chart; workshop on the development of managerial competences; project management support software: MS Project, Asana.
+* "System 365 Microsoft Dynamics" (06.2017) - training as part of the job fair event.
+* "Lean Management - kultura ciągłego doskonalenia na przykładzie HTL-STREFA S.A." (04.2017) - training as part of the job fair event.
