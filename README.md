@@ -37,6 +37,9 @@ Week 3 - Automate & Save Time (Create your own assistant, use AI with calendars,
 My repository: https://github.com/patt204/challenge_portfolio_patrycja
 * "Testy Automatyczne + Python" (03.2023 - 05.2023) - 7-weeks course organized by DareIT (https://www.dareit.io/). The scope of the course: Creating a project using Selenium Webdriver + Python technology and robot framework. Getting to know good testing practices and the first, own automatic tests. Bug reporting and test report.
 My repositories: https://github.com/patt204/DareIT_automatic_tests_challenge and https://github.com/patt204/panelscout_robotframework
+My test cases: [Test cases for website https://scouts-test.futbolkolektyw.pl/en/ (https://drive.google.com/drive/folders/14qhOWXsOnVeauCRE8GYN1N06fwAkKD2P)
+My bug report:
+[Bugs reported for website https://scouts.futbolkolektyw.pl/en/](https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16)
 * "Cloud + Platform Engineer" (02.2023 - 04.2023) - 9-weeks course organized by DareIT (https://www.dareit.io/). The scope of the course: Basics of Cloud Computing, Introduction to Google Cloud Platform, Basics of computer networks, servers and databases, Basics of Python, Cloud Function, SQL Database Service, Introduction to IAM, Concept CI/CD, IaC, Configuration Management.
 My repositories: https://github.com/patt204/cloud_challenge and https://github.com/patt204/dareit-terraform
 * "Analiza danych i programowanie w Pythonie" (10.2022)  - a course at the training company LabMasters (https://labmasters.pl/). The scope of the course: introduction to the Python and Jupyter Notebook environment, flow control, functions and objects, NumPy and Scipy, Pandas, Visualizations).
