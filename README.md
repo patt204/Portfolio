@@ -3,6 +3,8 @@
 My name is Patrycja Wysocka. I graduated from the field of applied computer science with a Master of Engineering's degree (M.Eng. / mgr inż.) at the Lodz University of Technology. I want to develop my IT skills and find job in IT. On this site I would like to share my gained experience from personal studies and researches.
 ## Link do my LinkedIn
 [https://www.linkedin.com/in/patrycja-wysocka/](https://www.linkedin.com/in/patrycja-wysocka/)
+## Link to my repositories on Github
+[https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
 ## Tools I am familiar with
   - [GitHub](https://github.com/), [GitHub Desktop](https://desktop.github.com/)
   - [Jira](https://www.atlassian.com/software/jira0), [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/)
@@ -24,12 +26,6 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 * Project of application for managing the inventory in a company - the application written in Java 8, based on a database of products and orders (created in SQLite) and a proposed simple interface for this application. [Link to repo](https://github.com/patt204/MyCompany)
 * Project of database of the training center courses - modeling and creation of database schema with implementation in Microsoft SQL Server. Operations on data sets, primary and foreign keys, SQL queries, functions, procedures, cursors, releases. [Link to repo](https://github.com/patt204/training_center_database)
 * Project of data warehouse - realized in Microsoft Visual Studio Community on student's licence access to this app [Link to repo](https://github.com/patt204/data_warehouse_project)
-## Link to my repositories
-[https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
-## My test cases - example
-  - [Test cases for website https://scouts-test.futbolkolektyw.pl/en/](https://drive.google.com/drive/folders/14qhOWXsOnVeauCRE8GYN1N06fwAkKD2P)
-## My bug report - example
-  - [Bugs reported for website https://scouts.futbolkolektyw.pl/en/](https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16)
 ## My courses
 * "AI Foundations Program" - (05.2025 - 06.2025) - 4-week course organized by Women Go Tech (https://www.womengotech.com/) about basics how to use the possibilities of GenAI to simplify our daily life. The scope of the course: Week 1 - Understand the Basics (AI before ChatGPT, key terms, and why AI matters), Week 2 - Start Using AI Tools (ChatGPT, Gemini, Copilot — plus smart prompting), 
 Week 3 - Automate & Save Time (Create your own assistant, use AI with calendars, slides, email), Week 4 - Use AI Mindfully (Security, ethics, job market trends & using AI your way).
