@@ -6,7 +6,6 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 ## Link to my repositories on Github
 [https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
 ## Programming tools I am familiar with
-  - [Trello](https://trello.com/), [Slack](https://slack.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Microsoft SQL Server](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
   - [SQLite](https://sqlite.org)
@@ -31,7 +30,7 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
   - [Copilot](https://copilot.microsoft.com/chats/qxvjkcuNyCU22kSMfpyt7)
   - [Gemini](https://gemini.google.com/?hl=pl)
   - [Claude](https://claude.ai/)
-  - [Perplexity]([https://claude.ai/](https://www.perplexity.ai/)
+  - [Perplexity](https://www.perplexity.ai/)
 ## Examples of my projects
 * Project of my automatic tests - realized in Selenium Webdriver + Python technology [Link to repo](https://github.com/patt204/DareIT_automatic_tests_challenge) and in Robot framework [Link to repo](https://github.com/patt204/panelscout_robotframework). Prepared test cases: [Link to Google Drive](https://drive.google.com/drive/folders/14qhOWXsOnVeauCRE8GYN1N06fwAkKD2P). Bugs reported for website: [Link to Google Drive](https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16)
 * Project with usage of Google Cloud Platform possibilities - [Link to repo](https://github.com/patt204/cloud_challenge) and part of project realized in Terraform technology [Link to repo](https://github.com/patt204/dareit-terraform).
