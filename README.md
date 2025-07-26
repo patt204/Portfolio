@@ -31,7 +31,8 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 ## My bug report - example
   - [Bugs reported for website https://scouts.futbolkolektyw.pl/en/](https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16)
 ## My courses
-* "AI Foundations Program" - (05.2025 - 06.2025) - 4-week course about basics how to use the possibilities of GenAI to simplify our daily life, organizator: Women Go Tech.
+* "AI Foundations Program" - (05.2025 - 06.2025) - 4-week course organized by Women Go Tech (https://www.womengotech.com/) about basics how to use the possibilities of GenAI to simplify our daily life. The scope of the course: Week 1 - Understand the Basics (AI before ChatGPT, key terms, and why AI matters), Week 2 - Start Using AI Tools (ChatGPT, Gemini, Copilot — plus smart prompting), 
+Week 3 - Automate & Save Time (Create your own assistant, use AI with calendars, slides, email), Week 4 - Use AI Mindfully (Security, ethics, job market trends & using AI your way).
 * "Zostań Testerem Manualnym" (04.2023 - 06.2023) - 7-weeks course organized by DareIT (https://www.dareit.io/). The scope of the course: Exploratory tests, Test cases, Error reporting, Mobile application testing, SQL exercises in MySQL, SQL: modifications of data in the table, modifications of tables, joining tables, i.e. what is actually used in projects in practice. 
 My repository: https://github.com/patt204/challenge_portfolio_patrycja
 * "Testy Automatyczne + Python" (03.2023 - 05.2023) - 7-weeks course organized by DareIT (https://www.dareit.io/). The scope of the course: Creating a project using Selenium Webdriver + Python technology and robot framework. Getting to know good testing practices and the first, own automatic tests. Bug reporting and test report.
