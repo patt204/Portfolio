@@ -5,9 +5,7 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 [https://www.linkedin.com/in/patrycja-wysocka/](https://www.linkedin.com/in/patrycja-wysocka/)
 ## Link to my repositories on Github
 [https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
-## Tools I am familiar with
-  - [GitHub](https://github.com/), [GitHub Desktop](https://desktop.github.com/)
-  - [Jira](https://www.atlassian.com/software/jira0), [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/)
+## Programming tools I am familiar with
   - [Trello](https://trello.com/), [Slack](https://slack.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Microsoft SQL Server](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
@@ -19,6 +17,21 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
   - [Eclipse](https://www.eclipse.org/ide/)
   - [NetBeans](https://netbeans.apache.org//)
   - [Code::Blocks](https://www.codeblocks.org/downloads/)
+## Management/office tools I am familiar with
+  - [GitHub](https://github.com/), [GitHub Desktop](https://desktop.github.com/)
+  - [Jira](https://www.atlassian.com/software/jira0), [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/)
+  - [Trello](https://trello.com/), [Slack](https://slack.com/)
+  - [Microsoft Office](https://www.microsoft.com/pl-pl/microsoft-365)
+  - [Service Now](https://www.servicenow.com/)
+## ERP systems I am familiar with
+  - [SAP](https://www.sap.com/poland/index.html)
+  - [Microsoft Dynamics 365](https://www.microsoft.com/pl-pl/dynamics-365)
+## AI tools I am familiar with
+  - [ChatGPT](https://sqlite.org)
+  - [Copilot](https://copilot.microsoft.com/chats/qxvjkcuNyCU22kSMfpyt7)
+  - [Gemini](https://gemini.google.com/?hl=pl)
+  - [Claude](https://claude.ai/)
+  - [Perplexity]([https://claude.ai/](https://www.perplexity.ai/)
 ## Examples of my projects
 * Project of my automatic tests - realized in Selenium Webdriver + Python technology [Link to repo](https://github.com/patt204/DareIT_automatic_tests_challenge) and in Robot framework [Link to repo](https://github.com/patt204/panelscout_robotframework). Prepared test cases: [Link to Google Drive](https://drive.google.com/drive/folders/14qhOWXsOnVeauCRE8GYN1N06fwAkKD2P). Bugs reported for website: [Link to Google Drive](https://drive.google.com/drive/u/0/folders/1pQUUAVHpY0rcYDREGrydV5RY_3i2_r16)
 * Project with usage of Google Cloud Platform possibilities - [Link to repo](https://github.com/patt204/cloud_challenge) and part of project realized in Terraform technology [Link to repo](https://github.com/patt204/dareit-terraform).
