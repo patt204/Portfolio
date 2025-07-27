@@ -5,14 +5,15 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 [https://www.linkedin.com/in/patrycja-wysocka/](https://www.linkedin.com/in/patrycja-wysocka/)
 ## Link to my repositories on Github
 [https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
-## Programming tools I am familiar with
+## Programming tools/environments I am familiar with
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Microsoft SQL Server](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
   - [SQLite](https://sqlite.org)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
   - [Jupyter Notebook](https://jupyter.org/)
-  - [Mu Editor](https://codewith.mu/)
   - [Google Cloud Platform](https://cloud.google.com/)
+  - [Microsoft Azure Databricks](https://azure.microsoft.com/pl-pl/products/databricks)
+  - [Mu Editor](https://codewith.mu/)
   - [Eclipse](https://www.eclipse.org/ide/)
   - [NetBeans](https://netbeans.apache.org//)
   - [Code::Blocks](https://www.codeblocks.org/downloads/)
