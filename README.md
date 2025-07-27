@@ -5,7 +5,7 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
 [https://www.linkedin.com/in/patrycja-wysocka/](https://www.linkedin.com/in/patrycja-wysocka/)
 ## Link to my repositories on Github
 [https://github.com/patt204?tab=repositories](https://github.com/patt204?tab=repositories)
-## Programming tools/environments I am familiar with
+## Programming tools/environments I am worked with
   - [Visual Studio Code](https://code.visualstudio.com/)
   - [Microsoft SQL Server](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
   - [SQLite](https://sqlite.org)
@@ -17,7 +17,7 @@ My name is Patrycja Wysocka. I graduated from the field of applied computer scie
   - [Eclipse](https://www.eclipse.org/ide/)
   - [NetBeans](https://netbeans.apache.org//)
   - [Code::Blocks](https://www.codeblocks.org/downloads/)
-## Management/office tools I am familiar with
+## Management/office tools I am worked with
   - [GitHub](https://github.com/), [GitHub Desktop](https://desktop.github.com/)
   - [Jira](https://www.atlassian.com/software/jira0), [Confluence](https://www.atlassian.com/software/confluence), [Bitbucket](https://bitbucket.org/)
   - [Trello](https://trello.com/), [Slack](https://slack.com/)
